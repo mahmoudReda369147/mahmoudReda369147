@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Mahmoud Reda Sultan 👋
+# Hey there! I'm Mahmoud Reda Soltan 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full+Stack+Engineer+%7C+MERN+%26+Next.js;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
