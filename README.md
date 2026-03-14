@@ -159,6 +159,6 @@ I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
 
-**Built with ❤️ by Mahmoud Reda Sultan**
+**Built with ❤️ by Mahmoud Reda Soltan**
 
 </div>
