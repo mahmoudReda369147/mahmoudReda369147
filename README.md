@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name: Mahmoud Reda Sultan
+Name: Mahmoud Reda Soltan
 Age: 22
 Location: Egypt
 University: Al-Azhar University
