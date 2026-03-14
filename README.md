@@ -24,11 +24,11 @@ Age:        22
 Location:   Egypt
 University: Al-Azhar University
 Degree:     B.Sc. in Physics & Computer Science
-Role:       Full Stack Developer @ MaxSoft
+Role:       Full Stack Developer @ MacSoft
 Stack:      MERN & Next.js
 ```
 
-I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and modern web technologies. I build performant, scalable, and user-friendly web applications with clean code principles. Currently crafting digital experiences at **MaxSoft Company**, where I turn ideas into production-ready products.
+I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and modern web technologies. I build performant, scalable, and user-friendly web applications with clean code principles. Currently crafting digital experiences at **MacSoft Company**, where I turn ideas into production-ready products.
 
 ---
 
@@ -115,7 +115,7 @@ I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and 
 ## 💼 Current Work
 
 ```
-🏢  Currently working as a Full Stack Developer at MaxSoft Company
+🏢  Currently working as a Full Stack Developer at MacSoft Company
 🎓  B.Sc. in Physics & Computer Science — Al-Azhar University
 🌱  Continuously learning and building with modern web technologies
 🎯  Focused on delivering high-quality, production-ready applications
