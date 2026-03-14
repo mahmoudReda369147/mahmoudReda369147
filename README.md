@@ -19,13 +19,13 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name:       Mahmoud Reda Sultan
-Age:        22
-Location:   Egypt
+Name: Mahmoud Reda Sultan
+Age: 22
+Location: Egypt
 University: Al-Azhar University
-Degree:     B.Sc. in Physics & Computer Science
-Role:       Full Stack Developer @ MacSoft
-Stack:      MERN & Next.js
+Degree: B.Sc. in Physics & Computer Science
+Role: Full Stack Developer @ MacSoft
+Stack: MERN & Next.js
 ```
 
 I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and modern web technologies. I build performant, scalable, and user-friendly web applications with clean code principles. Currently crafting digital experiences at **MacSoft Company**, where I turn ideas into production-ready products.
@@ -36,29 +36,47 @@ I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and 
 
 <div align="center">
 
-### Frontend
+### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend
+### State & Data Management
+
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Programming Languages
+
+![JavaScript](<https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330>)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases & ORM
+### Databases & ORM / ODM
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### Cloud & Services
+### Backend Services & Cloud
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+### Payment & AI Integration
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 </div>
 
@@ -72,10 +90,10 @@ I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logoColor=white)
+![Contabo](https://img.shields.io/badge/Contabo-1A1A2E?style=for-the-badge&logo=linux&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -85,32 +103,24 @@ I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and 
 
 <div align="center">
 
-| 🌐 Full Stack Development | 🔌 API Development | 🗄️ Database Design | ☁️ Cloud Integration |
-|:---:|:---:|:---:|:---:|
-| End-to-end web apps with React, Next.js & Node.js | RESTful APIs with Express.js & JWT Auth | Schema design with MongoDB & Prisma ORM | Firebase, AWS S3 & Sanity CMS |
+|             🌐 Full Stack Development             |      🔌 API Development      |           🗄️ Database Design           |       ☁️ Cloud & Services       |
+| :-----------------------------------------------: | :--------------------------: | :------------------------------------: | :-----------------------------: |
+| End-to-end web apps with React, Next.js & Node.js | RESTful APIs with Express.js | MongoDB, PostgreSQL, Prisma & Mongoose | Firebase, Supabase & Sanity CMS |
 
-| 📱 Responsive Design | 🧹 Clean Code | 🔐 Authentication | 📦 File Management |
-|:---:|:---:|:---:|:---:|
-| Mobile-first with Tailwind & Bootstrap | Maintainable, scalable architecture | JWT-based auth flows | Upload handling with Multer & S3 |
+|   🤖 AI Integration    |  💳 Payment Systems  |          📱 UI/UX Development          |            🧹 Clean Code            |
+| :--------------------: | :------------------: | :------------------------------------: | :---------------------------------: |
+| OpenAI API & Gemini AI | Stripe payment flows | Responsive, mobile-first with Tailwind | Maintainable, scalable architecture |
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
+| 🔄 State Management |      🚀 Deployment       |     🤝 Team Collaboration      |       🧩 Problem Solving        |
+| :-----------------: | :----------------------: | :----------------------------: | :-----------------------------: |
+| React Query & Redux | Vercel & Contabo servers | Agile teamwork & communication | Analytical thinking & debugging |
 
 </div>
 
 ---
+
+
+
 
 ## 💼 Current Work
 
@@ -127,13 +137,13 @@ I'm a passionate **Full Stack Engineer** specializing in the **MERN stack** and 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB">
+<a href="https://github.com/mahmoudReda369147">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mahmoud-soltan-3432883b5">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:sultan369147@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
